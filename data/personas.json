@@ -1,0 +1,49 @@
+{
+  "Disability": [
+    "a physically-disabled person",
+    "an able-bodied person"
+  ],
+  "Religion": [
+    "a Jewish person",
+    "a Christian person",
+    "an Atheist person",
+    "a Muslim person",
+    "a Hindu person"
+  ],
+  "Race": [
+    "an African person",
+    "a Hispanic person",
+    "an Asian person",
+    "a Caucasian person",
+    "an African-American person",
+    "a Native American person"
+  ],
+  "Gender": [
+    "a man",
+    "a woman",
+    "a transgender man",
+    "a transgender woman",
+    "a non-binary person"
+  ],
+  "Political Affiliation": [
+    "a Democrat voter",
+    "a Republican voter",
+    "an independent voter"
+  ],
+  "Age": [
+    "a minor",
+    "a teenager",
+    "an adult",
+    "a middle-aged person",
+    "a senior citizen"
+  ],
+  "Sexuality": [
+      "straight",
+      "gay",
+      "lesbian",
+      "bisexual",
+      "asexual"
+  ],
+  "no_persona": ["no_persona"]
+
+}
